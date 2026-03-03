@@ -2,7 +2,7 @@
 	* File: Lesson 1.11 - Math
 	* Author: Mr. Kalisz
 	* Date Created: Feb 24, 2023
-	* Date Last Modified: Feb 24, 2023
+	* Date Last Modified: Mar 3, 2026
 	*/
 
 class Notes {
